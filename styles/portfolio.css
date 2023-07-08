@@ -116,7 +116,6 @@ main section{
 
 
 .what-i-do{
-    max-width: 1140px;
     margin: 130px;
 }
 #what-i-do-description{
@@ -141,7 +140,6 @@ main section{
     font-size: 20px;
 }
 .resume-section{
-    max-width: 1140px;
     margin: 130px;
 }
 .resume-area{
