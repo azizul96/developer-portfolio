@@ -182,6 +182,7 @@ footer{
 }
 .footer-column{
     width: 50%;
+    
 }
 .contact input[type="text"],[type="email"], textarea{
     display: block;
